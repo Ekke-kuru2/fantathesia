@@ -50,8 +50,8 @@ class loadMidi{
         }
     }
     _loadBody(){
-        let body=parseTracks(this.array.subarray(8+this.header.size,this.array.length));
-        
+        let =parseTracks(this.array.subarray(8+this.header.size,this.array.length));
+
     }
 }
 
